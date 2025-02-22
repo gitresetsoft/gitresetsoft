@@ -3,7 +3,7 @@ I'm a Software Engineer that like to code at night 🦉 and stare at docs all da
 
 > [!Note]
 > ![Github](https://img.shields.io/badge/-Github-000?&logo=github) Contributions/Activity  
-> ![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab) Personal Projects!
+> [![Gitlab](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab) Personal Projects!](https://gitlab.com/ameersorne)
 
 ## Find me on the web 🌍
 - 🌐 Personal website : [under development 🛠️](https://ambik.link/ameersorne)
