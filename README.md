@@ -1,6 +1,10 @@
 # Hi, I'm Ameer 
 I'm a Software Engineer that like to code at night 🦉 and stare at docs all day 👁️👁️
 
+> [!Note]
+> ![](https://img.shields.io/badge/-Github-000?&logo=github) Github - Contributions/Activity
+> ![](https://img.shields.io/badge/-Gitlab-000?&logo=gitlab) Gitlab - Personal Projects!
+
 ## Find me on the web 🌍
 - 🌐 Personal website : [under development 🛠️](https://ambik.link/ameersorne)
 - 📑 Connect at [Linkedin](https://www.linkedin.com/in/ameersorne)
