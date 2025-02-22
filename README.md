@@ -17,12 +17,15 @@ I'm a Software Engineer that like to code at night 🦉 and stare at docs all da
 ![ReactJS](https://img.shields.io/badge/-React-000?&logo=React)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)  
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 
 - Secondary  
 ![Java](https://img.shields.io/badge/Java-11-red?logo=java)
+![Java](https://img.shields.io/badge/Java-17-red?logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 
