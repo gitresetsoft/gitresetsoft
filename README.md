@@ -10,64 +10,70 @@ I'm a Software Engineer that like to code at night 🦉 and stare at docs all da
 - [KadKawin](https://kahwinn.link/) [Undergoing major revamp]
 - ...(Soon to add more!)
 
-## Techstack
-- Primary  
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) 
-[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) 
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)  
+
+## 🚀 Tech Stack
+
+### 🔹 Primary  
+[![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)](#)
+[![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)](#)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)  
-[![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) 
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?&logo=mongodb&logoColor=white)
-[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)](#)
 
-- Secondary  
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)  
-![Java](https://img.shields.io/badge/Java-17-red?logo=java)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=Vercel)  
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
-[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)
+---
 
-- Blast in the past (but still 💪)  
-![Java](https://img.shields.io/badge/Java-11-red?logo=java)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-![Visual Basic 6](https://img.shields.io/badge/Visual%20Basic%206-orange?logo=microsoft)  
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-![VB.NET](https://img.shields.io/badge/VB.NET-blue?logo=visual-studio)
+### 🔹 Secondary  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](#)
+[![Java 17](https://img.shields.io/badge/Java-17-red?logo=java&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
+[![AWS DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)](#)
 
-- Learning  
-![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.JS)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)  
-- Favourite tools!  
-[![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Vite](https://img.shields.io/badge/Vite-yellow?logo=vite)](https://vitejs.dev/)    
-[![Git](https://img.shields.io/badge/Git-blue?logo=git)](https://git-scm.com/)
-[![Bash](https://img.shields.io/badge/Bash-green?logo=gnu-bash)](https://www.gnu.org/software/bash/)  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-orange?logo=amazon-s3)
-![AWS Route53](https://img.shields.io/badge/AWS%20Route53-orange?logo=amazon-route53)
-![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-orange?logo=amazon-dynamodb)
-![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-orange?logo=amazon-cloudfront)
-![PowerApps](https://img.shields.io/badge/PowerApps-blue?logo=microsoft-powerpoint)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=microsoft-powerpoint)  
-[![BitBucket](https://img.shields.io/badge/BitBucket-blue?logo=bitbucket)](https://bitbucket.org/)
-[![Confluence](https://img.shields.io/badge/Confluence-blue?logo=confluence)](https://www.atlassian.com/software/confluence)
-[![JIRA](https://img.shields.io/badge/JIRA-blue?logo=jira)](https://www.atlassian.com/software/jira)  
-[![WinSCP](https://img.shields.io/badge/WinSCP-green?logo=winscp)](https://winscp.net/)
-[![ReformX](https://img.shields.io/badge/ReformX-red?logo=reformx)](https://www.reformx.com/)
-[![Putty](https://img.shields.io/badge/Putty-yellow?logo=putty)](https://www.putty.org/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](https://www.jenkins.io/)
-[![MobaXTerm](https://img.shields.io/badge/MobaXTerm-yellow?logo=mobaxterm)](https://mobaxterm.mobatek.net/)  
-[![Asana](https://img.shields.io/badge/Asana-blue?logo=asana)](https://asana.com/)
-[![FileZilla](https://img.shields.io/badge/FileZilla-green?logo=filezilla)](https://filezilla-project.org/)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=ElasticSearch)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+---
 
+### 🔹 Blast from the Past ⚡  
+[![Java 11](https://img.shields.io/badge/Java-11-red?logo=java&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
+[![VB6](https://img.shields.io/badge/Visual_Basic_6-FF6600?logo=windows&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](#)
+[![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white)](#)
+
+---
+
+### 🔹 Currently Exploring / Learning  
+[![NextJS](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+
+---
+
+### 🛠 Favourite Tools  
+[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=white)](#)
+[![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+[![WinSCP](https://img.shields.io/badge/WinSCP-00BFFF?logo=winscp&logoColor=white)](#)
+[![Putty](https://img.shields.io/badge/Putty-yellow?logo=putty&logoColor=black)](#)
+[![MobaXTerm](https://img.shields.io/badge/MobaXTerm-2C2C2C?logo=mobaxterm&logoColor=white)](#)
+[![ReformX](https://img.shields.io/badge/ReformX-DD0031?logo=reformx&logoColor=white)](#)
+[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white)](#)
+[![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=white)](#)
+[![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)
+
+---
 
 [To be updated further in future, as I learn more!]
