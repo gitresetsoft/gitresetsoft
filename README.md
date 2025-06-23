@@ -5,10 +5,31 @@ I'm a Software Engineer that like to code at night 🦉 and stare at docs all da
 > [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/ameersorne) [Personal Projects!](https://gitlab.com/ameersorne)
 
 
+
 # Some of my Projects 👨‍💻✨
-- [Ambik!](https://ambik.link/) [Under development 🛠️]
-- [KadKawin](https://kahwinn.link/) [Undergoing major revamp]
-- ...(Soon to add more!)
+
+### 🔹 Personal Projects
+- [Ambik!](https://ambik.link) [Under development 🛠️]
+- [KadKawin](https://kahwin.link) [Serving 2k+ users ✨]
+- [MyBajet](https://mybajet.ambik/link?src=portfolio) [Live & growing 📈]
+- [Chukai](https://chukai.ambik/link?src=portfolio) [AI-powered ready 🤖]
+- [Hafalah](https://hafalah.ambik/link?src=portfolio) [Gamified learning 🎮]
+- [Nak Masak Apa?](https://nakmasakapa.ambik/link?src=portfolio) [Coming soon 🍳]
+- [Mustajab](https://mustajab.ambik/link?src=portfolio) [Chrome extension live 🕌]
+- [Nak Salam?](https://naksalam.ambik/link?src=portfolio) [On pause ⏸️]
+- [Suasana](https://suasana.ambik/link?src=portfolio) [Malaysian vibes 🇲🇾]
+- [Tadarus Tracker](https://tadarus.ambik/link?src=portfolio) [Community building 🤲]
+
+### 🔹 Client Projects
+- Car Rental [In progress 🚗]
+- Insurance Portal [Project ended 📋]
+- Shopify Feed [Archived 📦]
+- Full E-Commerce Website [Legacy project 🛍️]
+
+### 🔹 Other Projects
+- Web Community Service [COVID era 🦠]
+- Mobile - Blood Pressure [University project 🎓]
+
 
 
 ## 🚀 Tech Stack
